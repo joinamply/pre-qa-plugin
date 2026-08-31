@@ -1,0 +1,14 @@
+{
+  "name": "amply",
+  "owner": { "name": "Amply", "url": "https://github.com/joinamply" },
+  "metadata": {
+    "description": "Amply's Claude Code tooling for Webflow delivery — the pre-QA gate that runs before any handover."
+  },
+  "plugins": [
+    {
+      "name": "amply",
+      "source": "./amply",
+      "description": "Webflow delivery tooling — /amply:pre-qa, the rendered gate before any handover."
+    }
+  ]
+}
