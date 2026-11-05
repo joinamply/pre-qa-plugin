@@ -2,7 +2,7 @@
   "name": "amply",
   "owner": { "name": "Amply", "url": "https://github.com/joinamply" },
   "metadata": {
-    "description": "Retired. The amply plugin moved to the amply-int-tools/project-starter-webflow marketplace."
+    "description": "Retired. The amply plugin moved to the amply-int-tools/project-tools-webflow marketplace."
   },
   "plugins": []
 }
